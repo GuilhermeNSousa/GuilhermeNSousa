@@ -1,6 +1,5 @@
 ### Oi, eu sou o Guilherme!
 
-- 🔭 Hoje trabalho com TI (Jovem aprendiz)
 - 🌱 Estudando C#, SQL, Python, Java, HTML, CSS e Javascript
 
 ##
