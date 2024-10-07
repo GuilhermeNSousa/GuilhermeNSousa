@@ -1,6 +1,6 @@
 ### Oi, eu sou o Guilherme!
 
-- 🌱 Estudando C#, SQL, Python, Java, HTML, CSS e Javascript
+- 🌱 Estudando C#, SQL, Python, HTML, CSS e Javascript
 
 ##
 
