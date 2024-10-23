@@ -15,11 +15,11 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="Rafa-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="Rafa-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
-  <img align="center" alt="Rafa-AzureDevOps" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg">
-  <img align="center" alt="Rafa-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
-  <img align="center" alt="Rafa-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Rafa-AWS" height="30" width="40" src="https://github.com.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="Rafa-Azure" height="30" width="40" src="https://github.com.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
+  <img align="center" alt="Rafa-AzureDevOps" height="30" width="40" src="https://github.com.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg">
+  <img align="center" alt="Rafa-Terraform" height="30" width="40" src="https://github.com.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="Rafa-Linux" height="30" width="40" src="https://github.com.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Rafa-Apache" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg">
 </div>
 
